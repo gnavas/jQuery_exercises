@@ -1,0 +1,7 @@
+table, thead, tr, td, tfoot, th{
+	border: solid black;
+}
+div{
+	position: relative;
+	top: 25px;
+}
